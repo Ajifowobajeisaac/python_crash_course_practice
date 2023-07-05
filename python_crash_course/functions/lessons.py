@@ -10,4 +10,9 @@ def lessons():
     
 
 
-lessons()
+tips_prompt = "Would you like to get some programming tips? type Y or N"
+
+tips = input(tips_prompt)
+
+if tips == 'Y':
+    lessons()
