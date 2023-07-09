@@ -25,6 +25,8 @@ print(kendrick)
 drake = make_album('Drake', 'Views', 20 )
 print(drake)
 
+
+# Functions can be used within loops
 while True:
     print(f'\nPlease input an artist and on of thier albums\n')
     print(f'To quit press "q" twice and enter')
