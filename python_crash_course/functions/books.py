@@ -28,5 +28,4 @@ book('Finley Road', 'Drama')
 
 # Argument Position matters with position arguments. If we switch up the positions
 # we would get wierd results
-
 book('Drama', 'Romeo and Juliet')
