@@ -1,5 +1,6 @@
-# Examples of nested dictionaries
+# Demonstrates the ability of dictionaries to be nested within dictionaries
 
+# Pseudocode
 # A record of country information.
 # Key - Country (string)
 # Value - country_info (dictionary)

@@ -1,9 +1,6 @@
-#  A program that demonstrates 3 different loops. 
-# A conditional to end the loop
-# A flag to end the loop 
-# A break to end the loop
+#  A program that demonstrates inputs and while loops. 
 
-# This programs asks how many song a person has listened to today
+# This programs asks how many songs a person has listened to today
 
 
 prompt = "\nHow many songs have you listened to today?\n"
@@ -14,6 +11,7 @@ prompt = "\nHow many songs have you listened to today?\n"
 # if less than 2. must be a nice song
 # if more than 2 but less than 6. music is good for the soul
 # if less more than 5. you are an audiophile
+# use a status flag to continue or end the program
 
 continuation_prompt = "\nWould you like to play again? please type 'yes' or 'no'.\n"
 

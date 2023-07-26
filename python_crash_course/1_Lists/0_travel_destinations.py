@@ -1,4 +1,4 @@
-#A list of Travel destinations
+# A demonstrations of list operations
 
 place = ["Ibiza", "Mykonos", "Paris", "Bali"]
 

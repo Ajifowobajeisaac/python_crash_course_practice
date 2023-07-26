@@ -1,4 +1,4 @@
-# Show Tuples using Tuchel's best 11
+# Demonstrates tuples
 
 players = "Mendy", "Rudiger", "Silva", "Reece", "Chiwell"
 print(players)

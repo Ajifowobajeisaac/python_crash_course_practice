@@ -1,4 +1,4 @@
-# Control flow operations
+# Control flow operations 'for', 'if' and 'elif'
 
 # Append the right prefix ("nd" or "st") to numbers
 print("Append the right prefix ('nd' or 'st') to numbers")
