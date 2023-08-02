@@ -17,25 +17,10 @@ def make_album(artist, album, song_number=None):
             }
 
     return new_album
-    
-def print_album(album):
-    print(album)
-
-
-
-
-if __name__ == '__main__':
-    make_album()
-    print_album()
-
-
-    kendrick = make_album('Kendick', 'Damn')
-    print_album(kendrick)
-
-    drake = make_album('Drake', 'Views', 20 )
-    print_album(drake)
-
-# Functions can be used within loops
+   
+def add_album():
+    """This function takes user input to create an album using the make_album
+       function"""
     while True:
         print(f'\nPlease input an artist and on of thier albums\n')
         print(f'To quit press "q" twice and enter')
@@ -49,4 +34,18 @@ if __name__ == '__main__':
             break
 
         new_album = make_album(artist, album)
-        print(new_album)
+        for v in new_album.values():
+            print(new_album)
+
+
+
+if __name__ == '__main__':
+    make_album("","")
+
+
+    kendrick = make_album('Kendick', 'Damn')
+    print(kendrick)
+
+    drake = make_album('Drake', 'Views', 20 )
+    print(drake)
+
