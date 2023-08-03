@@ -9,6 +9,7 @@ class User:
         self.occupation = occupation
         self.gender = gender
         self.hobby = hobby
+        self.login_attempts = 0
 
 
     def describe_user(self):
@@ -23,3 +24,11 @@ class User:
     def greet(self):
         """Prints a greeting"""
         print(f"Hello {self.first_name}, How are you doing today?")
+
+    def increment_login_attempt(self):
+        """Increments the login attempts"""
+        self.login_attempts += 1
+
+    def reset_login_attempts(self):
+        """Resets the number of login attempts to zero"""
+        self.login_attempts = 0

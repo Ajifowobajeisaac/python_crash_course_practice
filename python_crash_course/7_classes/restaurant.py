@@ -6,6 +6,7 @@ class Restaurant:
     def __init__(self, restaurant_name, cuisine_type):
         self.name = restaurant_name
         self.cuisine = cuisine_type
+        self.number_served = 0
 
     def describe_restaurant(self):
         """Describes the restaurant"""
@@ -18,3 +19,11 @@ class Restaurant:
     def closed_restaurant(self):
         """Displays a closed for business message"""
         print(f"{self.name} is closed")
+
+    def set_number_served(self, served):
+        """Sets the number of customers served"""
+        self.number_served = served
+
+    def increment_number_served(self, increment):
+        """Increments the number of customers served"""
+        self.number_served = self.number_served + increment
