@@ -1,4 +1,4 @@
-# Exercise on inputs
+"""Exercise on inputs"""
 
 # This program takes an input then verifies whether it's a multiple of 8.
 

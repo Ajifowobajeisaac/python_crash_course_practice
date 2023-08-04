@@ -1,4 +1,4 @@
-# Defines a User class
+"""Defines a class that represents a User"""
 
 class User:
     """Defines a user"""

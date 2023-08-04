@@ -1,4 +1,4 @@
-# Defines a class Restaurant
+"""Defines a class that represents a Restaurant"""
 
 class Restaurant:
     """Defines a restautant"""

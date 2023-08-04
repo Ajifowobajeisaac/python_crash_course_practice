@@ -1,5 +1,5 @@
-# Demonstrates the ability of functions to take lists as inputs
-# Other data strcutures can be taken as input also
+"""Demonstrates the ability of functions to take lists as inputs,
+ other data strcutures can be taken as input also"""
 
 quotes = [ 
     "The only true wisdom is in knowing you know nothing. - Socrates",

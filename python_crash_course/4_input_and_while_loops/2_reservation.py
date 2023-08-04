@@ -1,4 +1,4 @@
-# Demonstrates how to get user input
+"""Demonstrates how to get user input"""
 
 # A progams that acts the user 'how many guests are in the diner group'
 

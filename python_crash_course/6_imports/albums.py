@@ -1,4 +1,4 @@
-# Demonstrates return values in functions
+"""Demonstrates return values in functions"""
 
 
 def make_album(artist, album, song_number=None):

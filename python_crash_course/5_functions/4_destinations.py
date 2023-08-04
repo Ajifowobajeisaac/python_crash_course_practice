@@ -1,5 +1,5 @@
-# This demonstrates the ability of functions to take an abitratry number of
-# arguments
+"""This demonstrates the ability of functions to take an abitratry number of
+arguments"""
 
 def trip_destination(*destinations):
     """This function takes a variable range of destinations and print the out"""

@@ -1,4 +1,4 @@
-# A showcase of Functions and inputs (Paramenters and arguments)
+"""A showcase of Functions and inputs (Paramenters and arguments)"""
 # Parameters - book title, gente
 
 # This function only defines one paramenter. so it takes only one argument

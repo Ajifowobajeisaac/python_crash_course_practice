@@ -1,4 +1,4 @@
-# Show List Slices usages and operations
+"""Show List Slices usages and operations"""
 
 spices = ["Basil", "Parsley", "Roesmary", "Thyme", "Cummin", "Paprika", "Ginger"
           , "Tumeric", "Oregano","Sage", "Chili powder", "Coriander"]

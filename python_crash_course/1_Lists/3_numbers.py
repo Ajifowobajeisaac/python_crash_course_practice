@@ -1,4 +1,4 @@
-# Shows the range function and list comprehensions
+"""Shows the range function and list comprehensions"""
 
 numbers = [number for number in range(1000001)]
 # [print(number) for number in numbers]

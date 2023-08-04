@@ -1,4 +1,4 @@
-# A demonstrations of list operations
+"""A demonstrations of list operations"""
 
 place = ["Ibiza", "Mykonos", "Paris", "Bali"]
 

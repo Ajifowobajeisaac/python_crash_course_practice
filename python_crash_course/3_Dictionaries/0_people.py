@@ -1,4 +1,4 @@
-# Demonstrates dictionary functionalities
+"""Demonstrates dictionary functionalities"""
 
 # A dictionary of people and their food allergens
 

@@ -1,4 +1,4 @@
-#  A program that demonstrates inputs and while loops. 
+"""A program that demonstrates inputs and while loops."""
 
 # This programs asks how many songs a person has listened to today
 

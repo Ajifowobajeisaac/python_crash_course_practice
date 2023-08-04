@@ -1,3 +1,5 @@
+"""This program shows different ways of setting attributes of class"""
+
 from restaurant import Restaurant
 
 tamberma = Restaurant("Tamberma", "Indian")

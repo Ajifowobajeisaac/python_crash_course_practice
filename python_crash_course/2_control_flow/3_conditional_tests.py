@@ -1,4 +1,4 @@
-# A series of boolean tests 
+"""A series of boolean tests"""
 
 # Testing equality/inequality with strings
 print("Testing equality/inequality with strings:")

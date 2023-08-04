@@ -1,4 +1,4 @@
-# Contflow techniques
+"""Contflow techniques"""
 
 # Checks if usernames are unique
 print("checks if usernames are unique")

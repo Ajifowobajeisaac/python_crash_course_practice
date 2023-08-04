@@ -1,4 +1,4 @@
-# This programs display how the control flow operation 'if' works
+"""This programs display how the control flow operation 'if' works"""
 
 alien_color = 'green'
 

@@ -1,3 +1,5 @@
+"""This program tests methods from the restaurant class"""
+
 from restaurant import Restaurant
 
 ayos = Restaurant("Ayos", "Turkish")

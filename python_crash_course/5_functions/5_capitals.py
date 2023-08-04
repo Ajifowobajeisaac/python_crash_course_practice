@@ -1,4 +1,4 @@
-# This program displays arbitrary keyword arguments (kwargs)
+"""This program displays arbitrary keyword arguments (kwargs)"""
 
 def state_capital(**state_capitals):
     """Takes a varying numbe of state and capital pairs and prints them"""

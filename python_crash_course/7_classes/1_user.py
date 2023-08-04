@@ -1,3 +1,5 @@
+"""This program tests methods from the user class"""
+
 from user import User
 
 todd = User("Todd", "Smith", 34, "Investment Banker", "Male", "Tennis")

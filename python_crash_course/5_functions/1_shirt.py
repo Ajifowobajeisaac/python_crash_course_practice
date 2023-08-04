@@ -1,5 +1,5 @@
-# A demostration of positional and keyword arguments in functions
-# and function calls
+"""A demostration of positional and keyword arguments in functions
+and function calls"""
 
 
 # This function is defined with one positional argument and one keyword argument

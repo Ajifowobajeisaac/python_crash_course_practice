@@ -1,3 +1,5 @@
+""""This programs tests a method for incrementing a class attributes"""
+
 from user import User
 
 greg = User("Greg", "Farshaw", 29, "Carpenter", "Male", "Bird watching")
