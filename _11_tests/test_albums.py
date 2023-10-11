@@ -1,8 +1,9 @@
-import os
-import sys
-sys.path.append('../../6_imports')
-print("sys.path:", sys.path)
+from _6_imports.albums import make_album, add_album
 
 
-# current_working_directory = os.getcwd()
-# print("Current Working Directory:", current_working_directory)
+
+def test_make_album():
+    """Does the fucntion work?"""
+    album_with_number = make_album('Frank Ocean', 'Blond', 12) 
+    assert album_with_number == {'artist': 'Frank Ocean', 'album': 'Blond',\
+                                'song_number': 12}
